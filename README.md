@@ -3,14 +3,14 @@
 Yog Know
 
 
-Tech Stack :-
-EJS
-Express
-NodeJs
-NoSql Database - MongoDb
-Javascript
-HTML
-CSS
+Tech Stack :-<br />
+EJS <br />
+Express<br />
+NodeJs<br />
+NoSql Database - MongoDb<br />
+Javascript<br />
+HTML<br />
+CSS<br />
 
 
 ER diagram for the database design
