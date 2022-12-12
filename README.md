@@ -12,6 +12,14 @@ Javascript<br />
 HTML<br />
 CSS<br />
 
+Features <br />
+User can Register <br />
+User can Login <br />
+Home Page with the user batch details and payment details <br />
+User can pay for the curr month any time in the month and can also pay for the next month <br />
+User can select for change of batch and can select for the month which he needs to pay <br />
+User can logout <br />
+
 
 ER diagram for the database design
 ![WhatsApp Image 2022-12-12 at 3 24 50 PM](https://user-images.githubusercontent.com/70810172/207096386-ff077d3c-7173-485c-a16f-c3a0119bf32a.jpeg)
