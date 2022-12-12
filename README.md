@@ -1,5 +1,17 @@
 # Flex_Money
 
+Yog Know
+
+
+Tech Stack :-
+EJS
+Express
+NodeJs
+NoSql Database - MongoDb
+Javascript
+HTML
+CSS
+
 
 ER diagram for the database design
 ![WhatsApp Image 2022-12-12 at 3 24 50 PM](https://user-images.githubusercontent.com/70810172/207096386-ff077d3c-7173-485c-a16f-c3a0119bf32a.jpeg)
@@ -11,4 +23,10 @@ Register
 
 Home Page
 ![home_](https://user-images.githubusercontent.com/70810172/207097643-4afbd955-0cd4-4c88-8c27-99fdc3ebaf54.png)
+
+User Schema
+![User](https://user-images.githubusercontent.com/70810172/207098466-0f2b49ec-5f6f-4114-a15a-00a0b66536ca.png)
+
+Product Schema || ( Yoga class Batch Data )
+![product](https://user-images.githubusercontent.com/70810172/207098566-05c7c928-b0b0-4936-80fd-285d65b94f34.png)
 
